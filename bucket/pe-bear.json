@@ -12,6 +12,12 @@
 			"hash": "51022d7f5a2e6c7484108908f2a26759e7f21a9ca77dae18b973b1a3e991e222"
 			}
 	},
+	"shortcuts": [
+                [
+                    "PE-bear.exe",
+                    "PE-bear"
+                ]
+            ],
 	"homepage": "https://hshrzd.wordpress.com/pe-bear/",
 	"description": "PE-bear is a freeware, multi-platform reversing tool for PE files"
 }
