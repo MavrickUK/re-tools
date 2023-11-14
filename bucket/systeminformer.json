@@ -3,11 +3,13 @@
 	"architecture": {
 		"32bit": {
 			"url": "https://github.com/MavrickUK/re-tools/blob/main/systeminformer-3.0.7310-i386.zip",
-			"bin": "SystemInformer.exe"
+			"bin": "SystemInformer.exe",
+			"hash": "7511c195f071f317ea466b65dc16ed000978cc3d82533b10caed61fa8afcf8df"
 			},
 		"64bit": {
 			"url": "https://github.com/MavrickUK/re-tools/blob/main/systeminformer-3.0.7310-amd64.zip",
-			"bin": "SystemInformer.exe"
+			"bin": "SystemInformer.exe",
+			"hash": "7696eb865704604ea512519ae8939edcc66e13e3d841e88649920ef3c7a87a31"
 			}
 	},
 	"shortcuts": [
