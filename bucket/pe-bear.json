@@ -1,0 +1,6 @@
+{
+  "version": "0.6.6",
+  "url": "https://github.com/MavrickUK/re-tools/blob/main/PE-bear_0.6.6_x64_win_vs19.zip",
+  "extract_dir": "PE-Bear",
+  "bin": "PE-bear.exe"
+}
