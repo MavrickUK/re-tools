@@ -1,6 +1,17 @@
 {
-  "version": "0.6.6",
-  "url": "https://github.com/MavrickUK/re-tools/blob/main/PE-bear_0.6.6_x64_win_vs19.zip",
-  "extract_dir": "PE-Bear",
-  "bin": "PE-bear.exe"
+	"version": "0.6.6",
+	"architecture": {
+		"32bit": {
+			"url": "https://github.com/hasherezade/pe-bear/releases/download/v0.6.6/PE-bear_0.6.6_x86_win_vs19.zip",
+			"extract_dir": "PE-Bear",
+			"bin": ["PE-bear.exe"],
+		},
+		"64bit": {
+			"url": "https://github.com/hasherezade/pe-bear/releases/download/v0.6.6/PE-bear_0.6.6_x64_win_vs19.zip",
+			"extract_dir": "PE-Bear",
+			"bin": ["PE-bear.exe"],
+		},
+	},
+	"homepage": "https://hshrzd.wordpress.com/pe-bear/",
+	"description": "PE-bear is a freeware, multi-platform reversing tool for PE files",
 }
