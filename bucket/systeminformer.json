@@ -9,7 +9,7 @@
 		"64bit": {
 			"url": "https://github.com/MavrickUK/re-tools/blob/main/systeminformer-3.0.7310-amd64.zip",
 			"bin": "SystemInformer.exe",
-			"hash": "e1f629da267900524badfcbefbd33c86619ea922dd7a03199be13c4850991060"
+			"hash": "bf6eda497fb752d332584be7c913607f531061687099d03f7590ceaa466ecf34"
 			}
 	},
 	"shortcuts": [
