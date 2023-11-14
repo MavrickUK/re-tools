@@ -3,15 +3,13 @@
 	"architecture": {
 		"32bit": {
 			"url": "https://github.com/hasherezade/pe-bear/releases/download/v0.6.6/PE-bear_0.6.6_x86_win_vs19.zip",
-			"extract_dir": "PE-Bear",
-			"bin": ["PE-bear.exe"],
-		},
+			"bin": "PE-bear.exe"
+			},
 		"64bit": {
 			"url": "https://github.com/hasherezade/pe-bear/releases/download/v0.6.6/PE-bear_0.6.6_x64_win_vs19.zip",
-			"extract_dir": "PE-Bear",
-			"bin": ["PE-bear.exe"],
-		},
+			"bin": "PE-bear.exe"
+			}
 	},
 	"homepage": "https://hshrzd.wordpress.com/pe-bear/",
-	"description": "PE-bear is a freeware, multi-platform reversing tool for PE files",
+	"description": "PE-bear is a freeware, multi-platform reversing tool for PE files"
 }
