@@ -10,9 +10,9 @@
 	"shortcuts": [
                 [
                     "bin/malcat.exe",
-                    "Malcat"
+                    "Malcat Lite"
                 ]
             ],
 	"homepage": "https://malcat.fr/",
-	"description": "Malcat is a feature-rich hexadecimal editor/disassembler targeted to IT-security professionals"
+	"description": "Lite version of Malcat, a feature-rich hexadecimal editor/disassembler targeted to IT-security professionals"
 }
