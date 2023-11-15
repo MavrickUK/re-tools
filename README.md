@@ -1,6 +1,6 @@
 # re-tools
 
-[![size](https://img.shields.io/github/repo-size/thecjw/scoop-retools.svg?style=flat-square)](https://github.com/TheCjw/scoop-retools) [![awesome](https://awesome.re/badge-flat.svg)](https://github.com/scoopinstaller/awesome-scoop)
+[![size](https://img.shields.io/github/repo-size/MavrickUK/re-tools.svg?style=flat-square)](https://github.com/MavrickUK/re-tools) [![awesome](https://awesome.re/badge-flat.svg)](https://github.com/scoopinstaller/awesome-scoop)
 
 Scoop bucket for reverse engineering tools.
 

@@ -1,5 +1,8 @@
 {
 	"version": "0.06",
+	"description": "Plugin manager for x64dbg.",
+	"homepage": "https://github.com/horsicq/x64dbg-Plugin-Manager",
+	"license": "Freeware",
 	"url": "https://github.com/horsicq/x64dbg-Plugin-Manager/releases/download/0.06/x64plgmnr_win32_portable_0.06.zip",
 	"extract_dir": "x64plgmnr_win32_portable",
 	"bin": "x64plgmnr.exe",
@@ -7,9 +10,7 @@
 	"shortcuts": [
                 [
                     "x64plgmnr.exe",
-                    "x64dbg-Plugin-Manager"
+                    "x64dbg Plugin Manager"
                 ]
-            ],
-	"homepage": "https://github.com/horsicq/x64dbg-Plugin-Manager",
-	"description": "Plugin manager for x64dbg."
+            ]
 }
