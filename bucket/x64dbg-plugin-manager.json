@@ -1,19 +1,9 @@
 {
 	"version": "0.06",
-	"architecture": {
-		"32bit": {
-			"url": "https://github.com/horsicq/x64dbg-Plugin-Manager/releases/download/0.06/x64plgmnr_win32_portable_0.06.zip",
-			"extract_dir": "x64plgmnr_win32_portable",
-			"bin": "x64plgmnr.exe",
-			"hash": "bf71d051b267bd9152a2de6affdcc5dbdfc52ac8def78d945fe454a92ac447bc"
-			},
-		"64bit": {
-			"url": "https://github.com/horsicq/x64dbg-Plugin-Manager/releases/download/0.06/x64plgmnr_win32_portable_0.06.zip",
-			"extract_dir": "x64plgmnr_win32_portable",
-			"bin": "x64plgmnr.exe",
-			"hash": "bf71d051b267bd9152a2de6affdcc5dbdfc52ac8def78d945fe454a92ac447bc"
-			}	
-	},
+	"url": "https://github.com/horsicq/x64dbg-Plugin-Manager/releases/download/0.06/x64plgmnr_win32_portable_0.06.zip",
+	"extract_dir": "x64plgmnr_win32_portable",
+	"bin": "x64plgmnr.exe",
+	"hash": "bf71d051b267bd9152a2de6affdcc5dbdfc52ac8def78d945fe454a92ac447bc",
 	"shortcuts": [
                 [
                     "x64plgmnr.exe",
