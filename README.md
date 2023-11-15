@@ -4,7 +4,7 @@
 ![Contributions - welcome](https://img.shields.io/badge/Contributions-welcome-blueviolet)
 [![size](https://img.shields.io/github/repo-size/MavrickUK/re-tools.svg?style=flat-square)](https://github.com/MavrickUK/re-tools) [![awesome](https://awesome.re/badge-flat.svg)](https://github.com/scoopinstaller/awesome-scoop)
 
-Scoop bucket for reverse engineering tools.
+Scoop bucket for reverse engineering tools. These are applications that are not currently available or maintained via scoop. Suggestions for other popular applications to include is welcome.
 
 ## Usage
 
