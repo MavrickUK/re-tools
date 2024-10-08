@@ -2,12 +2,12 @@
 	"version": "8",
 	"description": "CFF Explorer VIII.",
 	"homepage": "https://ntcore.com/explorer-suite/",
-	"url": "https://ntcore.com/files/CFF_Explorer.zip",
-	"hash": "8E72BCB9C6E83F188F4A259AD039ED3CC37CDF2C3EA12B00F0DF8D8B67E96D96",
-	"bin": ["CFF Explorer.exe"],
+	"url": "https://github.com/MavrickUK/re-tools/blob/main/CFF_Explorer.zip",
+	"hash": "7cccdf179e45992f3f1d73f2d3a9b6a83b2224caffa2d851ae287184e6022b6c",
+	"bin": ["CFF-Explorer.exe"],
 	"shortcuts": [
                 [
-                    "CFF Explorer.exe",
+                    "CFF-Explorer.exe",
                     "CFF Explorer"
                 ]
             ]
