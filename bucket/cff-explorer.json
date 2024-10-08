@@ -1,0 +1,14 @@
+{
+	"version": "8",
+	"description": "CFF Explorer VIII.",
+	"homepage": "https://ntcore.com/explorer-suite/",
+	"url": "https://ntcore.com/files/CFF_Explorer.zip",
+	"hash": "8E72BCB9C6E83F188F4A259AD039ED3CC37CDF2C3EA12B00F0DF8D8B67E96D96",
+	"bin": ["CFF Explorer.exe"],
+	"shortcuts": [
+                [
+                    "CFF Explorer.exe",
+                    "CFF Explorer"
+                ]
+            ]
+}
