@@ -1,14 +1,9 @@
 {
-	"version": "8",
-	"description": "CFF Explorer VIII.",
-	"homepage": "https://ntcore.com/explorer-suite/",
-	"url": "https://raw.githubusercontent.com/MavrickUK/re-tools/refs/heads/main/CFF_Explorer.zip",
-	"hash": "7cccdf179e45992f3f1d73f2d3a9b6a83b2224caffa2d851ae287184e6022b6c",
-	"bin": ["CFF-Explorer.exe"],
-	"shortcuts": [
-                [
-                    "CFF-Explorer.exe",
-                    "CFF Explorer"
-                ]
-            ]
+	"version": "0.1.18",
+	"description": "B4A Util.",
+	"homepage": "https://github.com/MavrickUK/re-tools",
+	"url": "https://raw.githubusercontent.com/MavrickUK/re-tools/refs/heads/main/b4a.7z",
+	"hash": "0d6c1f88885785115a1af9526cd3e9f47f060cd4bbdab472d076778e1b2ef6d3",
+	"bin": ["b4a.exe"],
+	"persist": [".b4a.yaml"]
 }
