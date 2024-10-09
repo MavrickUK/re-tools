@@ -1,0 +1,9 @@
+{
+  "description": "B4A Utils by Mavrick",
+  "bin": "b4a.exe",
+  "version": "0.1.18",
+  "hash": "2a7dae35aab2c5eb45a6467da72e0f67a1d287b492269c12c3250def9734aa5b",
+  "url": "https://raw.githubusercontent.com/MavrickUK/re-tools/refs/heads/main/b4autils.zip",
+  "homepage": "https://github.com/MavrickUK/re-tools",
+  "persist": ".b4a.yaml"
+}
