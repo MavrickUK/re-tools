@@ -1,9 +1,13 @@
 {
   "description": "B4A Utils by Mavrick",
   "bin": "b4a.exe",
-  "version": "0.1.18",
-  "hash": "2a7dae35aab2c5eb45a6467da72e0f67a1d287b492269c12c3250def9734aa5b",
-  "url": "https://raw.githubusercontent.com/MavrickUK/re-tools/refs/heads/main/b4autils.zip",
+  "version": "0.2.19",
+  "architecture": {
+		"64bit": {
+			"url": "https://raw.githubusercontent.com/MavrickUK/re-tools/refs/heads/main/b4a_utils_win64.7z",
+			"hash": "76A9672C2208BA6C363729D308EE7D7CDBD8E70FDBF7DB8D41DA0FA0CB1DA0D7"
+			}
+	},
   "homepage": "https://github.com/MavrickUK/re-tools",
   "persist": ".b4a.yaml"
 }
