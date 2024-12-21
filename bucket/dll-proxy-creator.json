@@ -1,11 +1,11 @@
 {
-	"version": "1.0",
+	"version": "1.0.3",
 	"description": "DllProxyCreator helps you to create dll proxy automatically.",
 	"homepage": "http://jacquelin.potier.free.fr/DllProxyCreator/",
 	"architecture": {
 		"32bit": {
 			"url": "http://jacquelin.potier.free.fr/exe/DllProxyCreator_bin.zip",
-			"hash": "b5c79ea6fddd0a0dce1b275eae7615845c1252a2b7f2dbbc7079176e960e9f26"
+			"hash": "ca4cf03f21d52705439d72fc44db6b278c8b06f8365c4b35822baa1d44ab9453"
 			},
 			"bin": "DllProxyCreator32.exe",
 			"shortcuts": [
@@ -16,7 +16,7 @@
             ],
 		"64bit": {
 			"url": "http://jacquelin.potier.free.fr/exe/DllProxyCreator_bin64.zip",
-			"hash": "f6d3a7239821ded5a8f473b40d7c7d8306a2cfcd01f464649f4511a4fbd34479"
+			"hash": "f4aa92bf46c47671c6878b9f9f1c9fa7368600800af31482b3308562e909698f"
 			},
 			"bin": "DllProxyCreator64.exe",
 			"shortcuts": [
